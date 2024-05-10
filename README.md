@@ -2,6 +2,7 @@
 ### Hi there! 👋
 
 I'm Pahal Srivastava , a learner and developer in Machine Learning based in Bengaluru . Welcome to my GitHub profile!
+Currently pursuing an internship based on Machine Learning and contributing on new modules for better machine-human interactions through deep learning, computer vision and image processing. 
 
 - 💼 **Skills and Expertise:**
 - Programming Languages: JavaScript, Python, Java, C, GoLang. 
