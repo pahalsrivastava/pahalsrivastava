@@ -1,5 +1,5 @@
 
-###### Hi there! 👋
+### Hi there! 👋
 
 I'm Pahal Srivastava , a learner and developer in Machine Learning based in Bengaluru . Welcome to my GitHub profile!
 
