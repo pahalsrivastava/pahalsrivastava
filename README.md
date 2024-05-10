@@ -9,7 +9,6 @@ I'm Pahal Srivastava , a learner and developer in Machine Learning based in Beng
 - Data Science Libraries: TensorFlow, scikit-learn, NumPy, OpenCV, Keras, iMutils, 
 - Cloud Platforms: AWS (Proficient), Google Cloud Platform (Familiar)
 
-- Tools: [List of tools]
 
 🌱 **Open Source Contributions:**
 - DeResume: https://github.com/opencodeiiita/DEresume (Blockchain based project)
