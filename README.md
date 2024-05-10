@@ -16,7 +16,7 @@ Currently pursuing an internship based on Machine Learning and contributing on n
 - Donation App: https://github.com/opencodeiiita/Donation-App (A flutter based donation app)
 
 📫 **How to Reach Me:**
-- [LinkedIn] https://www.linkedin.com/in/pahal-srivastava-8025582a3/
+-  https://www.linkedin.com/in/pahal-srivastava-8025582a3/
 
 
 
