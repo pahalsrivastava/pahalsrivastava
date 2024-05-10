@@ -7,7 +7,7 @@ I'm Pahal Srivastava , a learner and developer in Machine Learning based in Beng
 - Programming Languages: JavaScript, Python, Java, C, GoLang. 
 - Javascript Frameworks: React.js, Node.js.
 - Data Science Libraries: TensorFlow, scikit-learn, NumPy, OpenCV, Keras, iMutils, 
-- Cloud Platforms: AWS (Proficient), Google Cloud Platform (Familiar)
+- Cloud Platforms: Google Cloud Platform. 
 
 
 🌱 **Open Source Contributions:**
