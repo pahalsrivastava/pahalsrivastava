@@ -6,8 +6,7 @@ Currently pursuing an internship based on Machine Learning and contributing on n
 
 - 💼 **Skills and Expertise:**
 - Programming Languages: JavaScript, Python, Java, C, GoLang. 
-- Javascript Frameworks: React.js, Node.js.
-- Data Science Libraries: TensorFlow, scikit-learn, NumPy, OpenCV, Keras, iMutils, 
+- Javascript Frameworks: React.js, Node.js. 
 - Cloud Platforms: Google Cloud Platform. 
 
 
