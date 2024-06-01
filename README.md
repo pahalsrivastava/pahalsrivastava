@@ -26,8 +26,7 @@ Thank you.
     <a href="https://github.com/the-1Riddle" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1Riddle&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
-
+![](https://komarev.com/ghpvc/?username=the1Riddle&style=plastic&color=green&label=PROFILE+VIEWS) 
 
 <!---
 the1Riddle/the1Riddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
