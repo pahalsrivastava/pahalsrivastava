@@ -3,7 +3,7 @@
 
 <h1>Hello<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
 
-I'm Pahal Srivastava, a passionate Computer Science Student, dedicated to improving my skills in ML development. I am also a open-source contributor. (Hacking through systems when bored apart from Figma). 
+I'm Pahal Srivastava, a passionate Computer Science Student, dedicated to improving my skills in ML development. I am also an open-source contributor. (Hacking through systems when bored, apart from Figma). 
 - Currently, I'm crafting my specialization projects with precision and joy. 
 
 I am also an open-Sourcerer and seeking more opportunities to collaborate on any. If you would like to reach me, you can achieve that through my: <br>
