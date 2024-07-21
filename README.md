@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+ML+Developer;I+am+from+Bengaluru+Karnataka)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+You+Are+Welcome+To+My+Profile;and+hope+you+find+it+awesome;I+Am+Passionate+About+Coding;a+ML+Developer)](https://git.io/typing-svg)
 
 
 <h1>Hello<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
