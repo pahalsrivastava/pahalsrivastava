@@ -3,7 +3,7 @@
 
 <h1>Hello<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
 
-I'm Pahal Srivastava, a passionate Computer Science Student, dedicated to improving my skills in ML development. I am currenly working on my skills in MLOps, TinyML and nocodeML development. 
+I'm Pahal Srivastava, a passionate Computer Science Student, dedicated to improving my skills in software development. 
  If you would like to reach me, you can achieve that through my: <br>
 <br>[![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:srivastavapahal5@gmail.com)
 
